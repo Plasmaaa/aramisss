@@ -30,8 +30,9 @@ const MyResponsiveBar = () => (
         padding={0.3}
         valueScale={{ type: 'linear' }}
         indexScale={{ type: 'band', round: true }}
-        colors={{ scheme: 'nivo' }}
-        borderColor="#0b2edb"
+        colors={['#4E80CF', '#94B4E8', '#C9DBF6' ]}
+        
+        
         
 
 
