@@ -20,22 +20,22 @@ const Dashboard = () => {
           </div>
         </div>
         <div className='liste-deals'>
-        <div className='Deals-container1'>
-          <h3>Castel Flora</h3>
-          <p>Peugeot 208</p>
-          <p>Nombre de voiture : 31</p>
+          <div className='Deals-container1'>
+            <h3>Castel Flora</h3>
+            <p>Peugeot 208</p>
+            <p>Nombre de voiture : 31</p>
           </div>
           <div className='Deals-container2'>
-          <h3>Julian Pascal</h3>
-          <p>Peugeot 208</p>
-          <p>Nombre de voiture : 24</p>
+            <h3>Julian Pascal</h3>
+            <p>Peugeot 208</p>
+            <p>Nombre de voiture : 24</p>
           </div>
           <div className='Deals-container3'>
-          <h3>Didier Andréa</h3>
-          <p>Peugeot 208</p>
-          <p>Nombre de voiture : 18</p>
+            <h3>Didier Andréa</h3>
+            <p>Peugeot 208</p>
+            <p>Nombre de voiture : 18</p>
           </div>
-          </div>
+        </div>
       </div>
 
     </>

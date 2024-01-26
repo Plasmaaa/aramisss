@@ -25,7 +25,7 @@ padding: 0px 5px 0px 30px;
     border-radius: 15px;
 border: 4px solid #8BE594;
 background: #FDFDFD;
-    margin: 30px;
+    margin: 10px 0px 10px 20px;
     width: 19vw;
     height: 18vh;
 }
@@ -35,7 +35,7 @@ background: #FDFDFD;
 }
 
 .Deals-container1 p {
-    padding: 6px 11px;
+    padding: 2px 11px;
 }
 
 
@@ -43,7 +43,7 @@ background: #FDFDFD;
     border-radius: 15px;
 border: 4px solid #4E8754;
 background: #FDFDFD;
-    margin: 30px;
+    margin: 10px 0px 10px 20px;
     
     width: 19vw;
     height: 18vh;
@@ -54,13 +54,13 @@ background: #FDFDFD;
 }
 
 .Deals-container2 p {
-    padding: 6px 11px;
+    padding: 2px 11px;
 }
 .Deals-container3{
     border-radius: 15px;
     border: 4px solid #DA4444;
     background: #FDFDFD;
-    margin: 30px;
+    margin: 10px 0px 10px 20px;
    
     width: 19vw;
     height: 18vh;
@@ -71,5 +71,11 @@ border-radius: 10px;
 }
 
 .Deals-container3 p {
-    padding: 6px 11px;
+    padding: 2px 11px;
+}
+
+.liste-deals {
+
+    height: 50%;
+    width: 50%;
 }

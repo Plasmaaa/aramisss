@@ -1,7 +1,7 @@
 
 
 .rectangle {
-  margin: 50px 200px 10px 250px;   
+  margin: 10px 200px 10px 250px;   
   display: flex; 
   align-items: center; 
   justify-content: center; 
@@ -23,6 +23,8 @@ line-height: normal;
   justify-content: center; 
   align-items: center;
 flex-shrink: 0;
+width: 90%;
+height: 100%;
 }
 
 .alert {
@@ -41,15 +43,13 @@ box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
 }
 
 .inbound-stock h3 {
-  padding: 28px 121px 65px 25px;
-  width: 194px;
-height: 58px;
+  padding: 28px 0px 65px 26px;
   color: #4E80CF;
   font-family: 'Roboto', sans-serif;
   font-size: 24px;
   font-style: normal;
-  font-weight: 700;
-  line-height: normal;
+  width: 90%;
+  height: 90%;
 }
 
 .inbound-container {
@@ -60,9 +60,8 @@ height: 58px;
 }
 
 .Bar-container {
-  margin: 0px 250px ;
-  width: 1000px;
-  height: 470px;
+  width: 80%;
+  height: 67%;
 }
 .Bar-container p {
   display: flex ;
@@ -74,10 +73,14 @@ font-style: normal;
 font-weight: 500;
 line-height: normal;
 margin: 0px;
+width: auto;
+height: auto;
+padding-left: 100px;
 }
 .Bar {
+  padding-left: 100px;
   width: 100%;
-  height: 95%;
+  height: 75%;
 }
 
 .inbound-stock img {
