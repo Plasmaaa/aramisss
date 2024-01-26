@@ -1,0 +1,66 @@
+.app {
+  
+  background: linear-gradient(180deg, #1760A5 0%, #869FF9 100%);
+  display: flex; 
+  align-items: center;
+  height: 100vh; 
+  height: 100vh; 
+
+}
+
+.sidebar {
+display: flex; 
+left: 0px; 
+background: linear-gradient(180deg, #1760A5 0%, #869FF9 100%);
+z-index: 2;
+}
+
+
+.layout-content {
+  display: flexbox;
+  width: 85vw; 
+  height: 95vh;
+  background-color: #EEF3FC;  
+  border-radius: 4px;
+     
+
+}
+
+
+
+
+
+.icons {
+  
+  display: flex; 
+  padding: 10px;
+  z-index: 0;
+}
+
+
+.icons img {
+  padding: 0px 50px;
+}
+
+
+.email {
+  color: #4D72F6
+}
+
+.sidebardroite {
+  display: flex; 
+
+}
+
+.profile-layout {
+  display: flex; 
+padding: 0px 0px 0px 175px;
+
+}
+
+
+
+.duo-icons {
+  display: flex; 
+
+}

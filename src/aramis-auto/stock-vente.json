@@ -1,0 +1,22 @@
+[
+  {
+      "Catégorie": "01. Citadine",
+      "vente": 938
+  },
+  {
+      "Catégorie": "02. SUV B",
+      "vente": 704
+  },
+  {
+      "Catégorie": "03. Berline compacte",
+      "vente": 519
+  },
+  {
+      "Catégorie": "04. SUV C",
+      "vente": 760
+  },
+  {
+      "Catégorie": "05. SUV M",
+      "vente": 200
+  }
+]

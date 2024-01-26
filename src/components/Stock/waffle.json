@@ -1,0 +1,31 @@
+[
+    {
+      "id": "En vente",
+      "label": "En Vente",
+      "value": 30
+    },
+    {
+      "id": "En arrivage",
+      "label": "En Arrivage",
+      "value": 29
+    },
+    {
+      "id": "Deals poteniels Flora",
+      "label": "Deals Flora",
+      "value": 12
+    },
+    {
+        "id": "Deals poteniels Pascal",
+        "label": "Deals Pascal",
+        "value": 3
+      },
+      {
+        "id": "Deals poteniels Andrea",
+        "label": "Deals Andrea",
+        "value": 4
+      }
+   
+      
+  ]
+
+ 

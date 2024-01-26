@@ -1,24 +1,2 @@
 
 
-.app {
-  
-    background: linear-gradient(180deg, #1760A5 0%, #869FF9 100%);
-    display: flex; 
-    align-items: center;
-    height: 100vh; 
-    height: 100vh; 
-
-  }
-
-.sidebar {
-display: flex; 
-left: 0px; 
-  background: linear-gradient(180deg, #1760A5 0%, #869FF9 100%);
-  z-index: 2;
-}
-
-
-.dashboard {
-  z-index: 5;
-}
-

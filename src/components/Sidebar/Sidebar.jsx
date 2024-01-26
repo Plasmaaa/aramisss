@@ -1,11 +1,12 @@
 import React from 'react';
 import './Sidebar.css';
-import logo from './logo.png'; 
-import dashboard from './dashboard.svg'
-import vente from './vente.svg'
-import stock from './stock.svg'
-import deals from './deals.svg'
-import reglage from './reglage.svg'
+import logo from './../../assets/logo.png'; 
+import dashboard from './../../assets/dashboard.svg'
+import vente from './../../assets/vente.svg'
+import Stock from './../../assets/Stock.svg'
+import deals from './../../assets/deals.svg'
+import reglage from './../../assets/reglage.svg'
+import { NavLink } from 'react-router-dom';
 
 function Sidebar() {
     return (
@@ -16,10 +17,10 @@ function Sidebar() {
         <p>Aramisauto</p>
         </div>
         <ul>
-          <li><img src={dashboard} alt="" className="dashimg"/>Dashboard</li>
+          <li><NavLink to=""><img src={dashboard} alt="" className="dashimg"/>Dashboard</NavLink></li>
           <li> <img src={deals} alt="" className="dealsimg"/> Deals</li>
           <li> <img src={vente} alt="" className="venteimg"/> Ventes</li>
-          <li><img src={stock} alt="" className="stockimg"/> Stock</li>      
+          <li><NavLink to="/stocks"><img src={Stock} alt="" className="stockimg"/> Stock</NavLink></li>      
         </ul>
         </div>
        

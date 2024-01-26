@@ -1,0 +1,60 @@
+[
+  {
+      "Modèle": " P.208",
+      "Vente": 30,
+      "Arrivage": 29,
+      "Deals potentiels": 80,
+      "Taille Parking": 142
+
+  },
+  {
+      "Modèle": "C3",
+      "Arrivage": 26,
+      "Vente": 20,
+      "Deals potentiels": 24,
+      "Taille Parking": 90
+  },
+  {
+      "Modèle": "Clio 5",
+      "Arrivage": 33,
+      "Vente": 35,
+      "Deals potentiels": 29,
+      "Taille Parking": 120
+  },
+  {
+      "Modèle": "Dacia Sandero",
+      "Arrivage": 15,
+      "Vente": 26,
+      "Deals potentiels": 33,
+      "Taille Parking": 100
+  },
+  {
+      "Modèle": "Fiat 500",
+      "Arrivage": 24,
+      "Vente": 55,
+      "Deals potentiels": 20,
+      "Taille Parking": 95
+  },
+  
+  {
+    "Modèle": "Clio 4",
+    "Arrivage": 20,
+    "Vente": 20,
+    "Deals potentiels": 30,
+    "Taille Parking": 90
+},
+{
+    "Modèle": "Twingo",
+    "Arrivage": 25,
+    "Vente": 28,
+    "Deals potentiels": 12,
+    "Taille Parking": 80
+},
+{
+    "Modèle": "Opel Corsa",
+    "Arrivage": 14,
+    "Vente": 19,
+    "Deals potentiels": 13,
+    "Taille Parking": 52
+}
+]
